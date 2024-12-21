@@ -4,7 +4,7 @@ import {
   MenuUnfoldOutlined,
   UserOutlined,
 } from "@ant-design/icons";
-import { Button, Layout, theme, Dropdown, Space, Avatar } from "antd";
+import { Button, Layout, theme, Dropdown, Avatar } from "antd";
 
 const items = [
   {
